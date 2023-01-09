@@ -5,6 +5,6 @@ This was a series of projects provided by Holberton School in which I was challe
 Author
 Nyasha Jerahuni <Quintony1>
 Acknowledgements
-All work contained in this project was completed as part of the curriculum for Holberton School. Holberton School is a campus-based full-stack software engineering program that prepares students for careers in the tech industry using project-based peer learning. For more information, visit this link.
+All work contained in this project was completed as part of the curriculum for Holberton School. Holberton School is a campus-based full-stack software engineering program in Silicon Valley that prepares students for careers in the tech industry using project-based peer learning. For more information, visit this link.
 
 Holberton School logo
